@@ -5,8 +5,8 @@
   "version": "0.1.0",
   "author": "Anthony Powell <adpowell@mtu.edu>",
   "dependencies": {
-    "gatsby": "^2.0.107",
-    "gatsby-theme-wiki": "git+https://github.com/cephalization/gatsby-wiki.git"
+    "gatsby": "^2.13.67",
+    "gatsby-theme-wiki": "git+https://github.com/technical-exercise/gatsby-wiki.git"
   },
   "keywords": [
     "gatsby"
